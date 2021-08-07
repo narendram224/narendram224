@@ -32,7 +32,7 @@
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** and currently learning **Redux-saga and storyBook in react** 💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking ofr joining a company and collaborate* with team **in the project**.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> For the reusablity of components I am following the **Atomic Design principle** along with that **styled-components** and **atomic css** & for the optimization I am following **redux-dev-tools** and **react-dev-tools** and **memo hoc**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Learning** and **explore new tools and technologies**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
@@ -50,7 +50,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript','Css','Html'];
   frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
   react_library=["Redux","Redux-thunk","redux-devtools-extenstion","react-devtools-extenstions","react-router-dom"];
-  css_framework=["MaterialUI","bootStrap","Scss",Styled-components]
+  css_framework=["MaterialUI","bootStrap","Scss","Styled-components"]
   backEnd: ["nodejs", "express", "Jwt"],
   databases  = ['MongoDB'];
   architecture:["Serverless Architecture", "microservices",  "Single page applications"];
