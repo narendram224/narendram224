@@ -39,6 +39,7 @@
 
 ```js
 import WebDevloper from 'India';
+import SoftDevloper from 'Javascript';
 
 class Bio extends WebDevloper {
   name     = 'Narendra Maurya';
