@@ -55,8 +55,9 @@ class Skills extends SoftwareDeveloper {
   backEnd: ["nodejs", "express", "Jwt"],
   databases  = ['MongoDB'];
   architecture:["Serverless Architecture", "microservices",  "Single page applications"];
-  devOps: ["AWS", "Nginx", "Jenkins","Docker"],
-  mobileApp: ["ionic","react-native"],
+  devOps=["AWS", "Nginx", "Jenkins","Docker"];
+  mobileApp= ["ionic","react-native"];
+  reusable_optimized_component=["Atomic Design principle","Styled-components","Memo hoc","Atomic css","React-devtools","Redux-devtools"]
   
 }
 ```
