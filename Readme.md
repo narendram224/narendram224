@@ -44,14 +44,14 @@ import SoftDevloper from 'Javascript';
 class Bio extends WebDevloper {
   name     = 'Narendra Maurya';
   title    = 'Web Developer';
-  location = 'Bagalore,India';
+  location = 'Bangalore,India';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript','Css','Html'];
   frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
   react_library=["Redux","Redux-thunk","redux-devtools-extenstion","react-devtools-extenstions","react-router-dom"];
-  css_framework=["MaterialUI","bootStrap","Scss","Styled-components"]
+  css_framework=["MaterialUI","bootStrap","Scss","Styled-components","ANTD"]
   backEnd: ["nodejs", "express", "Jwt"],
   databases  = ['MongoDB'];
   architecture:["Serverless Architecture", "microservices",  "Single page applications"];
