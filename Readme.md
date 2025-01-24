@@ -9,7 +9,7 @@
 &nbsp;
 <p>
   <em>
-   A solution-driven Frontend Developer 💻 at Leap Finance with over <strong>4.4</strong> years of experience,<br>
+   A solution-driven Frontend Developer 💻 at Leap Finance with over <strong>4.8</strong> years of experience,<br>
  I specialize in creating dynamic and responsive web applications.
 <br> 🚀 My expertise spans across technologies such as Next.js 🔥, TypeScript 🎨, React 🧠, Redux 📚, MongoDB 🗄️, Express 🌐, and Nest.js 🐱‍🏍.<br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
